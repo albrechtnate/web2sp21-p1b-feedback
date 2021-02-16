@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+@import url("reset.css");
+
+a{
+  color: #ffff;
+  text-decoration: none;
+  background-color: rgba(8, 126, 91, 1);
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 27px;
+  padding-left: 27px;
+  
+}
+
+body{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  color: #3D3C3C;
+  width: 1200px;
+  margin: 0 auto;
+  font-size: 1.2rem;
+  line-height: 23px;
+
+}
+
+header .tagline{
+  margin: none;
+  padding-bottom: 160px;
+  color: #71726C;
+  font-size: 1.6rem;
+  text-align: center;
+}
+
+header {
+  background-image: url(images/backgroundtitle.png);
+  background-repeat: no-repeat;
+  background-position: bottom;
+  padding: 60px;
+  margin: auto;
+}
+
+h1{
+  font family: 'Roboto', sans-serif;
+  font-weight: 300;
+  color: #087E5B;
+  font-size: 5.2rem;
+  text-transform: uppercase;
+  text-align: center;
+  padding-bottom: 30px;
+  padding-top: 160px;
+}
+
+h1 img {
+  display: block;
+  margin: auto;
+  width: 1200px;
+  height: 460px;
+}
+
+h2{
+  color: #087E5B;
+  font-size: 3.0rem;
+  text-align: center;
+}
+
+h3{
+  color: #3D3C3C;
+  font-size:1.4rem;
+  padding-bottom: 10px;
+}
+
+footer{
+  color: #71726C;
+  font-size: 1.2rem;
+  width: 610px;
+  margin: auto;
+  text-align: center;
+  padding-bottom: 75px;
+}
+
+.paragraphdivision ul li{
+  list-style-type: disc;
+  width: 670px;
+  margin: auto;
+}
+
+.paragraphdivision ul{
+  padding-top:20px;
+  padding-bottom:20px;
+  line-height: 30px;
+}
+
+.articles{
+  display: flex;
+  margin-bottom: 0;
+  margin-top: 20.5px;
+}
+
+.articles-li{
+  flex: 1;
+  margin-left: 20px;
+  maring-right: 20px;
+}
+
+.article-image{
+  display: block;
+  width: 100%;
+  padding: 0;
+  margin-bottom: 20.5px;
+}
+
+.features{
+  padding-top: 75px;
+  padding-bottom: 40px;
+}
+
+.section3 .imgcamera{
+  margin-left: 460px;
+  margin-right: 460px;
+  padding-top: 50px;
+}
+
+.masterclass{
+  display: flex;
+  flex-flow: row wrap;
+  padding-top: 60px;
+}
+
+.masterclass .masterclassimage{
+  float: left;
+  padding-right: 40px;
+  padding-left: 120px;
+  padding-bottom: 75px;
+  padding-top: 100px;
+  width: 460px;
+  height: 385px;
+}
+
+.masterclass .masterclasstext{
+  width: 460px;
+  padding-top: 100px;
+}
+
+.paragraph1{
+  padding-bottom: 55px;
+}
+
+.paragraphdivision{
+  width: 760px;
+  margin: auto;
+  padding-bottom: 75px;
+}
+
+.secondheading{
+  padding-top: 150px;
+  padding-bottom: 40px;
+}
+
+.smallheading{
+  padding-bottom: 25px;
+  width: 260px;
+  margin: auto;
+  padding-bottom: 150px;
+}
+
+
+
+
+
